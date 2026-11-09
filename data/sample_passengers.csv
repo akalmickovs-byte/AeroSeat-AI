@@ -1,0 +1,13 @@
+passenger_id,weight_kg,group_id,needs_aisle,preferred_zone
+P001,72,G001,false,front
+P002,64,G001,true,front
+P003,91,,false,rear
+P004,80,G002,false,middle
+P005,68,G002,true,middle
+P006,75,,false,
+P007,83,G003,false,rear
+P008,59,G003,false,rear
+P009,77,G003,true,rear
+P010,88,,true,front
+P011,71,G004,false,middle
+P012,66,G004,false,middle
